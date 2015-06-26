@@ -7,4 +7,3 @@ Project is developed with JaCoP Library in Java.
 
 #####For More information;
 * CLP_Project_Info.pdf->En.
-* husnuisleyen.com->Tr.
